@@ -1,5 +1,6 @@
 # Ali Benabdallah 
 
+This project is my first contact with Rust.
 
 ## Name
 liarlie
